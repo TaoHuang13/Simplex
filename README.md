@@ -23,4 +23,4 @@
 - **Please remember that parameter `method='classical'` is the defaut parameter to choose classic method. You can input `revised` to test  revised version.**   
 - Size of input: $A\in R^{m\times n}$ , $b\in R^{m}$ and $C \in R^{n}$. 
 - Format like numpy array is perferred. 
-- Use `np.loadtxt()` to load data if you find problem in testing my solver.
+- Use `np.loadtxt()` to load data if you meet problems when testing my solver.
